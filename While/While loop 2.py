@@ -8,4 +8,4 @@ while True:
         if n1 % k == 0 and n2 % k == 0:
             a = k
         k += 1
-    print("so chia lon nhat cua n1 = %d va n2 = %d la: %d" % (n1, n2, k))
+    print("so chia lon nhat cua n1 = %d va n2 = %d la: %d" % (n1, n2, a))
